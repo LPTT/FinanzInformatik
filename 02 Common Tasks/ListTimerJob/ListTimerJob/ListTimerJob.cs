@@ -36,7 +36,6 @@ namespace ListTimerJob
             SPListItem item = list.Items.Add();
             item["Title"] = string.Format("Timer Job was executed at : {0}", DateTime.Now.ToString());
             item.Update();
-
         }
 
         protected static SPList EnsureList(SPWeb web)
