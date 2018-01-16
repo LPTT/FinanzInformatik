@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5a9abdb8-b01e-4972-a75c-8f40af6484bc" solutionId="5a9abdb8-b01e-4972-a75c-8f40af6484bc" resetWebServer="false" sharePointProductVersion="16.0" name="SP_PnP_Core_JavaScript" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="6e4bdf1b-9a59-4c02-bbab-2c4329f44c69" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="f95d52d9-8607-4444-920b-879286dddc19" />
+  </projectItems>
+</package>

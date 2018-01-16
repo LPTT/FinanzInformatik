@@ -1,0 +1,1 @@
+https://dev.office.com/blogs/sharepoint-pnp-javascript-core-library-v20

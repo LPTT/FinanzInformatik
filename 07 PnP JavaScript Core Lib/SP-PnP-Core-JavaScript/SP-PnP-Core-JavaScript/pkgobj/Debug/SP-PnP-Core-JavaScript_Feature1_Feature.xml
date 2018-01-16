@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="05247d69-57d9-43d9-aa24-ccde70054e9e" Scope="Web" Title="SP-PnP-Core-JavaScript">
+  <ElementManifests>
+    <ElementManifest Location="CustomActions\Elements.xml" />
+    <ElementManifest Location="News\Elements.xml" />
+  </ElementManifests>
+</Feature>

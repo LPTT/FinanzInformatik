@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="5a9abdb8-b01e-4972-a75c-8f40af6484bc" SharePointProductVersion="16.0">
+  <Assemblies>
+    <Assembly Location="SP-PnP-Core-JavaScript.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\SP-PnP-Core-JavaScript\lib\jquery.min.js" />
+    <TemplateFile Location="Layouts\SP-PnP-Core-JavaScript\lib\pnp.min.js" />
+    <TemplateFile Location="Layouts\SP-PnP-Core-JavaScript\PnPCoreJS.aspx" />
+    <TemplateFile Location="Layouts\SP-PnP-Core-JavaScript\pnpsamples.js" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SP-PnP-Core-JavaScript_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
