@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="JavaScript Deep Dive" Id="92d5c405-7b84-4c08-91c0-639c511940f4" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="News\Elements.xml" />
+    <ElementFile Location="News\Schema.xml" />
+    <ElementManifest Location="NewsInstance\Elements.xml" />
+    <ElementManifest Location="CustomActions\Elements.xml" />
+  </ElementManifests>
+</Feature>

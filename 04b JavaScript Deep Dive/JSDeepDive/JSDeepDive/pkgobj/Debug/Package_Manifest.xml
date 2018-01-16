@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="690b77f1-795f-468d-bc95-f9ca66f39b59" SharePointProductVersion="16.0">
+  <Assemblies>
+    <Assembly Location="JSDeepDive.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\JavaScript\demos\vouchers.json" />
+    <TemplateFile Location="Layouts\JavaScript\css\demo.css" />
+    <TemplateFile Location="Layouts\JavaScript\css\domevents.css" />
+    <TemplateFile Location="Layouts\JavaScript\css\eventBubbling.css" />
+    <TemplateFile Location="Layouts\JavaScript\css\form.css" />
+    <TemplateFile Location="Layouts\JavaScript\css\logging.css" />
+    <TemplateFile Location="Layouts\JavaScript\css\manipulate.css" />
+    <TemplateFile Location="Layouts\JavaScript\css\style.css" />
+    <TemplateFile Location="Layouts\JavaScript\css\variables.css" />
+    <TemplateFile Location="Layouts\JavaScript\Demos.aspx" />
+    <TemplateFile Location="Layouts\JavaScript\demos.aspx.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\closures.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\closures.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\consumingServices.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\consumingServices.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\dates.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\dates.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\domevents.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\domevents.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\es6classes.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\es6classes.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\es6lang.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\es6lang.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\eventBubbling.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\eventBubbling.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\events.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\events.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\form.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\form.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\handsontable.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\handsontable.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\logging.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\logging.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\logic.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\logic.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\manipulate.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\manipulate.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\modules.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\modules.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\objectOrientations.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\objectOrientations.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\promisesjQuery.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\promisesjQuery.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\readJSON.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\readJSON.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\referencing.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\referencing.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\selecting.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\selecting.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\testJQuery.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\testJQuery.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\validate.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\validate.js" />
+    <TemplateFile Location="Layouts\JavaScript\demos\variables.html" />
+    <TemplateFile Location="Layouts\JavaScript\demos\variables.js" />
+    <TemplateFile Location="Layouts\JavaScript\images\lamp_off.png" />
+    <TemplateFile Location="Layouts\JavaScript\images\lamp_on.png" />
+    <TemplateFile Location="Layouts\JavaScript\lib\jquery\jquery-3.1.1.min.js" />
+    <TemplateFile Location="Layouts\JavaScript\lib\moment\moment.js" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="JSDeepDive_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
