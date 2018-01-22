@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="c49f36ff-b95a-42d0-b285-eaf7afa9b93e" Scope="Web" Title="REST Basics">
-  <ElementManifests>
-    <ElementManifest Location="CustomActions\Elements.xml" />
-  </ElementManifests>
-</Feature>
